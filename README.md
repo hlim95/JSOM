@@ -2,6 +2,9 @@
 
 Repository for the paper "."
 
+![](/images/map1.gif)
+![](/images/map2.gif)
+
 ⋅ Please run the following for a quick start:
 python JSOM.py --file1 'path_to_data1' --file2 'path_to_data2' --matching1 'path_to_matching1' --matching2 'path_to_matching2'
 
