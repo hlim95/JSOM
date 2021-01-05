@@ -1,6 +1,7 @@
 # JSOM
 
-###Repository for the paper "."
+### Repository for the paper "."
+
 **JSOM(Jointly Evolving Self-organzing Maps)** is an algorithm aims to align two related datasets that contain similar clusters by constructing two maps—low dimensional discretized representation of datasets–that jointly evolve according to both datasets. Below, it shows how two maps evolve over time when traiend with two independent MNIST datasets. 
 
 ![](/images/map1.gif)
